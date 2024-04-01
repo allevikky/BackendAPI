@@ -29,7 +29,7 @@ namespace AngularSampleProject2.Server.Controllers
             } 
             catch
             {
-                return Json(new { status = "error", message = "error returning ptoducts" });
+                return Json(new { status = "error", message = "error returning products" });
             }
         }
 
@@ -43,7 +43,7 @@ namespace AngularSampleProject2.Server.Controllers
             }
             catch
             {
-                return Json(new { status = "error", message = "error returning ptoducts" });
+                return Json(new { status = "error", message = "error returning products" });
             }
         }
     }
