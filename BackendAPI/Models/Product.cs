@@ -1,4 +1,4 @@
-﻿namespace AngularSampleProject2.Server
+﻿namespace BackendAPI.Models
 {
     public class Product
     {
